@@ -1,0 +1,6 @@
+Deploy report
+Time: 2026-10-09 10:10:05
+Source: ./bin
+Target: ./deploy
+Executable: ./deploy\app.exe
+Status: OK

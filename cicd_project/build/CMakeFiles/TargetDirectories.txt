@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/mini/cicd_project/build/CMakeFiles/ci-cd.dir
+C:/Users/user/Desktop/mini/cicd_project/build/CMakeFiles/lint.dir
+C:/Users/user/Desktop/mini/cicd_project/build/CMakeFiles/notify.dir
+C:/Users/user/Desktop/mini/cicd_project/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/mini/cicd_project/build/CMakeFiles/rebuild_cache.dir

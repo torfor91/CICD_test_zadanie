@@ -1,0 +1,9 @@
+{
+  "pipeline": [
+    { "stage": "notify", "source": "./src" },
+    { "stage": "build",  "source": "./src", "output": "./bin" },
+    { "stage": "test",   "tests": "./tests" },
+    { "stage": "script", "path": "./scripts/custom_step.bat" },
+    { "stage": "deploy", "source": "./bin", "target": "./deploy" }
+  ]
+}
